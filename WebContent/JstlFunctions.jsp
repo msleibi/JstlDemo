@@ -55,7 +55,9 @@ Does it end with Programmer word ? <c:if test="${fn:endsWith(str,'Programmer')}"
  Yes!
 </c:if>
 
-<br>
+<br><br>
+
+
 
 </body>
 </html>
